@@ -2,7 +2,7 @@
 
 Welcome to My GitHub! 🚀
 
-Hi there! 👋 I’m a physicist and programmer navigating the multiverse of quantum theory and high-energy physics (with a dash of particle physics and theoretical computer science for flavor).
+I’m a physicist and programmer navigating the multiverse of quantum theory and high-energy physics (with a dash of particle physics and theoretical computer science for flavor).
 
 A Quick Snapshot of Me:
 	•	📜 B.A. in Physics & Computer Science: Because one major just wasn’t enough.

@@ -1,16 +1,3 @@
 ## Hi there 👋
 
-Welcome to My GitHub! 🚀
-
-I’m a physicist and programmer navigating the multiverse of quantum theory and high-energy physics (with a dash of particle physics and theoretical computer science for flavor).
-
-A Quick Snapshot of Me:
-	•	📜 B.A. in Physics & Computer Science: Because one major just wasn’t enough.
-	•	🎓 M.Sc. in Physics: Specialized in quantum information science and technology—essentially teaching computers how to think like Schrödinger’s cat.
-	•	🔬 Ph.D. in Theoretical Physics: Currently deep-diving into the quirks of quantum theory with the help of GPUs, supercomputers, and some serious programming wizardry.
-
-Interests:
-
-From smashing particles to unraveling the mysteries of quantum computing, I love exploring high-energy physics, quantum mechanics, and anything that blends physics and code.
-
-So, if you’re into physics, coding, or just want to discuss why E=mc² makes the universe cooler, you’re in the right place!
+I’m **Jonathan Elyovich**, a Direct PhD candidate in Theoretical Physics at the Hebrew University of Jerusalem. My work focuses on GPU‑accelerated quantum simulations and tensor‑network methods for lattice gauge theories. I hold an M.Sc. in Physics (Quantum Information Science & Technology) and a B.Sc. in Physics & Computer Science.  
